@@ -1,0 +1,6 @@
+{
+  "name": "Emron",
+  "description": "An automated trading bot platform for the Deriv API featuring technical indicators, Martingale multipliers, and a Gemini AI trading signal assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
